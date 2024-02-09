@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.h{
+    width: 40%;
+    height: 7px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 150px;
+    background-color: #1a53ff;
+}
+
+#random {
+    justify-content: center;
+    text-align: center;
+    margin-top: 3vmin;
+    color: #003399;
+}
+
+
+.msg-container{
+    margin-top: 1rem;
+}
+
+#msg {
+    background-color: #1a53ff;
+    color: #fff;
+    font-size: 2rem;
+    display: inline;
+    padding: 0.5rem;
+    
+}
+
+.msg-container:hover {
+    cursor: pointer;
+}
+
+
+.btn1 {
+    align-items: center;
+    background-color: aqua;
+    
+}
+
+#demo {
+    margin-top: 2rem;
+}
+
